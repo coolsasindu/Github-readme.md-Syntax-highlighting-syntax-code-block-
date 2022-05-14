@@ -13,12 +13,9 @@ function Hello() {
 ```
 # Syntax highlighting You can add an optional language identifier to enable syntax highlighting in your fenced code block.
 
-For example, to syntax highlight javascript code: use 
-```javascript 
+For example, to syntax highlight javascript code: use First line ```javascript .  Type Midle Your Code and last line type ``` 
+![image](https://user-images.githubusercontent.com/45946252/168409372-b44bb15d-b9b0-43f7-8aa2-02fc3054e082.png)
 
-//code
-
-end line ```
 
 ```javascript
 <script>
