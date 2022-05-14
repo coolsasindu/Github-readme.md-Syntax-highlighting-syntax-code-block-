@@ -11,10 +11,9 @@ function Hello() {
   console.log("Hi Iam Hello Function");
 }
 ```
-Syntax highlighting
-You can add an optional language identifier to enable syntax highlighting in your fenced code block.
+# Syntax highlighting You can add an optional language identifier to enable syntax highlighting in your fenced code block.
 
-For example, to syntax highlight javascript code:
+For example, to syntax highlight javascript code: use ```javascript
 
 ```javascript
 <script>
