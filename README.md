@@ -70,15 +70,15 @@ class GFG {
 How to use
 In markdown, write code block as follows:
 
-```python:test.py
+```python:[test.py](https://github.com/coolsasindu/Github-readme.md-Syntax-highlighting-syntax-code-block-/blob/main/test.py)
 
 ```
 
 And, you can refer specific lines as
-```python:tests/src/sample.py [4-5]
+```python:[tests/src/sample.py](https://github.com/coolsasindu/Github-readme.md-Syntax-highlighting-syntax-code-block-/blob/main/test.py) [4-5]
  
 ```
-Then, this action referes to test.py and modifies markdown as (if something code is written, they are overridden):
+Then, this action referes to [test.py](https://github.com/coolsasindu/Github-readme.md-Syntax-highlighting-syntax-code-block-/blob/main/test.py) and modifies markdown as (if something code is written, they are overridden):
 
 from math import sqrt
 
